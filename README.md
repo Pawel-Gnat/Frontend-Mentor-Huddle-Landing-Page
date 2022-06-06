@@ -20,7 +20,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Live Site URL: [Huddle Landing Page](https://pawel-gnat.github.io/Frontend-Mentor-3-Column-Card-Component/)
+- Live Site URL: [Huddle Landing Page](https://pawel-gnat.github.io/Frontend-Mentor-Huddle-Landing-Page/)
 
 ## My process
 
